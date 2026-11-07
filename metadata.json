@@ -1,0 +1,6 @@
+{
+  "name": "Hero Rivals Mobile - Cross-Platform 3D Hero Shooter",
+  "description": "Marvel Rivals style fast-paced 3D superhero team shooter mobile release featuring cross-platform play (PS5, PC, Mobile), responsive virtual controls, diverse hero classes, and dynamic arena battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
